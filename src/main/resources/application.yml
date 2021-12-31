@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://54.180.94.179:3306/sabots?serverTimezone=Asia/Seoul
+    username: sabots
+    password: sabots!@
